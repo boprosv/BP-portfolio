@@ -20,6 +20,7 @@ MODIFY COLUMN transaction_time TIME;
 
 --DATA TYPES OF DIFFERENT COLUMNS
 DESCRIBE coffee_shop_sales;
+![Picture1](https://github.com/boprosv/BP-portfolio/assets/118841138/104791c7-a7af-4504-b3e4-63f9792a48ea)
 
 --CHANGE COLUMN NAME `ï»¿transaction_id` to transaction_id
 ALTER TABLE coffee_shop_sales
