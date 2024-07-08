@@ -8,7 +8,9 @@ Fully interactive dashboard:
 
 
 #2 Hotel Cancellation with Python and Machine Learning.
+
 Helping to address a lost revenue of Cancelled servises:
+
 
 ![Screenshot 2024-07-08 153735](https://github.com/boprosv/BP-portfolio/assets/118841138/6b358d13-82f6-4832-9142-12402054707a)
 
