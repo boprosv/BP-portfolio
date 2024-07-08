@@ -1,6 +1,6 @@
 In this project I have a Coffe Shop Sales Data Set in a format of the CSV file.
 I uploaded it to MySQL and fired quiries to transform and clean data to start and then extracted information for the Analysis.
-I also have this project in a .dox format, so you can see the visual results.
+I also have this project in a .dox format, so please download it RAW and you will see the visual results.
 
 --CONVERT DATE (transaction_date) COLUMN TO PROPER DATE FORMAT
 UPDATE coffee_shop_sales
